@@ -5,6 +5,13 @@
 <h3 align="center">I'm Shrivardhan Boini🙋‍♂️, I have great passion for programming, and am tech enthusiast with passion to solve problems and to make things.
 I'm a Python Enthusiast🐍. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
 
+- 💬 Ask me about **anything you want.**
+
+- 📫 How to reach me **shri.boini@gmail.com**
+
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
+
+- - 👯 I’m looking to collaborate on **Development Based Projects**
 
 
 
