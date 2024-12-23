@@ -11,7 +11,7 @@ I'm a Python Enthusiast🐍. Apart from coding I always enjoy meeting new people
 
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 
-- - 👯 I’m looking to collaborate on **Development Based Projects**
+- 👯 I’m looking to collaborate on **Development Based Projects**
 
 
 
